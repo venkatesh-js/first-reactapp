@@ -17,8 +17,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <h1>Hello this is Venkateswarlu Dande.<br></br>This is my first React App</h1>
-        <h1>Hello this is Dande Venkateswarlu.<br></br>This is my first React App</h1>
-        <h1>Hello this is Dande Venkateswarlu.<br></br>This is my first React App</h1>
+       
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -31,7 +30,6 @@ function App() {
     </div>
   );
 }
-
 
 
 //export default App;
